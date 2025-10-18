@@ -29,10 +29,10 @@ Block explorer: [gensyn alchemy](https://gensyn-testnet.explorer.alchemy.com/)
 - The Block
 
 <b>Links</b>
--  Team and Individuals associated with gensyn
+-  Team and Individuals associated with gensyn: [team members](https://github.com/kaize1337/gensyn/blob/main/content/TEAM.md)
 
 
-### Aps
+### Apps
 #### BlockAssist
 <img src="images/blockAssist.png" alt="gensyn" width="600"/>
 
