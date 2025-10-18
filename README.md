@@ -22,11 +22,14 @@ Research page: [research](https://www.gensyn.ai/research)<br>
 Testnet: [testnet](https://www.gensyn.ai/testnet)<br>
 Block explorer: [gensyn alchemy](https://gensyn-testnet.explorer.alchemy.com/)
 
-### My guides
-<b>Roles:</b>
+### My content
+<b>Roles guide:</b>
 - Hugging Face
 - The Swarm
 - The Block
+
+<b>Links</b>
+-  Team and Individuals associated with gensyn
 
 
 ### Aps
@@ -52,7 +55,7 @@ Block explorer: [gensyn alchemy](https://gensyn-testnet.explorer.alchemy.com/)
 - Repository: [repository](https://github.com/gensyn-ai/rl-swarm)
 
 #### Judge
-<img src="images/rlSwarn.png" alt="gensyn" width="600"/>
+<img src="images/judge.png" alt="gensyn" width="600"/>
 
 > Judge is an open-source, decentralized AI evaluation system developed by Gensyn. It provides cryptographically verifiable assessments of AI model outputs, ensuring transparency and reproducibility.
 - My overview: []()
