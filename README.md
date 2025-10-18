@@ -31,7 +31,17 @@ Block explorer: [gensyn alchemy](https://gensyn-testnet.explorer.alchemy.com/)
 
 ### Aps
 #### BlockAssist
-<img src="images/gensyn.png" alt="gensyn" width="1200"/>
+<img src="images/blockAssist.png" alt="gensyn" width="600"/>
 
-RL Swarn
+> BlockAssist is an app from Gensyn that lets you train an AI assistant by observing your actions in Minecraft. It is part of their testnet and represents an unusual example of an AI training approach called assistance learning.
+- My overview: []()
+- Article: [article](https://www.gensyn.ai/articles/blockassist?utm_source=chatgpt.com)
+- Installation and Launch guide: [launch guide](https://docs.gensyn.ai/testnet/blockassist/getting-started?utm_source=chatgpt.com)
+- Launch with Cursor: [cursor guide](https://docs.gensyn.ai/testnet/blockassist/running-blockassist/running-blockassist-with-cursor)
+- Repository: [repository](https://github.com/gensyn-ai/blockassist?utm_source=chatgpt.com)
+
+#### RL Swarn
+<img src="images/blockAssist.png" alt="gensyn" width="600"/>
+
+
 Judge
