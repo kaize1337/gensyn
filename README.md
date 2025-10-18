@@ -35,13 +35,27 @@ Block explorer: [gensyn alchemy](https://gensyn-testnet.explorer.alchemy.com/)
 
 > BlockAssist is an app from Gensyn that lets you train an AI assistant by observing your actions in Minecraft. It is part of their testnet and represents an unusual example of an AI training approach called assistance learning.
 - My overview: []()
-- Article: [article](https://www.gensyn.ai/articles/blockassist?utm_source=chatgpt.com)
-- Installation and Launch guide: [launch guide](https://docs.gensyn.ai/testnet/blockassist/getting-started?utm_source=chatgpt.com)
+- Article: [article](https://www.gensyn.ai/articles/blockassist)
+- Installation and Launch guide: [launch guide](https://docs.gensyn.ai/testnet/blockassist/getting-started)
 - Launch with Cursor: [cursor guide](https://docs.gensyn.ai/testnet/blockassist/running-blockassist/running-blockassist-with-cursor)
-- Repository: [repository](https://github.com/gensyn-ai/blockassist?utm_source=chatgpt.com)
+- Repository: [repository](https://github.com/gensyn-ai/blockassist)
 
 #### RL Swarn
-<img src="images/blockAssist.png" alt="gensyn" width="600"/>
+<img src="images/rlSwarn.png" alt="gensyn" width="600"/>
 
+> RL Swarm is an open-source, peer-to-peer framework for collaborative reinforcement learning (RL) over the internet. It enables multiple AI models to train together, exchanging feedback and improving collectively.
+- My overview: []()
+- Article: [article](https://www.gensyn.ai/articles/rl-swarm)
+- Technical report: [tech report](https://arxiv.org/abs/2509.08721)
+- Node Installation Guide: [node guide](https://github.com/Mayankgg01/Gensyn-ai-Rl-Swarm_Guide)
+- Octa Node Launch Guide:[octa guide](https://docs.octa.space/gensyn)
+- Repository: [repository](https://github.com/gensyn-ai/rl-swarm)
 
-Judge
+#### Judge
+<img src="images/rlSwarn.png" alt="gensyn" width="600"/>
+
+> Judge is an open-source, decentralized AI evaluation system developed by Gensyn. It provides cryptographically verifiable assessments of AI model outputs, ensuring transparency and reproducibility.
+- My overview: []()
+- Article «Introducing Judge»: [article](https://blog.gensyn.ai/introducing-judge/)
+- Article «Judge: The End of Black-Box AI Evaluation»: [article](https://medium.com/@senpai.esteban16/judge-the-end-of-black-box-ai-evaluation-e92ae5e60aed)
+- Repository: [repository](https://github.com/0xmoei/gensyn-ai?utm_source=chatgpt.com)
