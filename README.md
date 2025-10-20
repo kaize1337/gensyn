@@ -25,8 +25,8 @@ Block explorer: [gensyn alchemy](https://gensyn-testnet.explorer.alchemy.com/)
 ### My content
 <b>Roles guide:</b>
 - Hugging Face: [guide](https://github.com/kaize1337/gensyn/blob/main/roles/HuggingFace.md)
-- The Swarm: [guide]()
-- The Block: [guide]()
+- The Swarm: [guide](https://github.com/kaize1337/gensyn/blob/main/roles/TheSwarm.md)
+- The Block: [guide](https://github.com/kaize1337/gensyn/blob/main/roles/TheBlock.md)
 
 <b>Links</b>
 -  Team and Individuals associated with gensyn: [team members](https://github.com/kaize1337/gensyn/blob/main/content/TEAM.md)
