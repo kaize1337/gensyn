@@ -1,7 +1,7 @@
 # The Swarm
 > This is second role you can get after setup Telegram bot: for those who are going to launch a node
 <p align="center">
-  <img src="../images/swarm.png" alt="gensyn" width="1200"/>
+  <img src="../images/SWARM.png" alt="gensyn" width="1200"/>
 </p>
 
 ## How to get?
